@@ -1,2 +1,5 @@
 # MCP
-Show how MCP changes our life
+
+Show how MCP technology changes our daily life.
+
+
