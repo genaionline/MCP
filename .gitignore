@@ -1,0 +1,20 @@
+# 忽略 macOS 生成的隐藏文件
+.DS_Store
+# 忽略 .app clashed 文件
+.App_clashed
+
+# 忽略 .DocumentRevisions-V100 文件
+.DocumentRevisions-V100
+
+# 忽略 .LateRemoval 文件
+.LateRemoval
+
+# 忽略 .Trashes 文件
+.Trashes
+
+# 忽略 .fileconflict 文件
+.fileconflict
+
+# 忽略 .Trash 文件
+.Trash
+
